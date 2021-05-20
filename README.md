@@ -12,3 +12,6 @@ Base: https://introajulia.org/
 Juliacon: https://juliacon.org/2021/
 
 
+## Otros recursos
+
+https://www.youtube.com/user/JuliaLanguage/playlists
